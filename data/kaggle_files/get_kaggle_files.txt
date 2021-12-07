@@ -1,0 +1,19 @@
+
+--- PROCEDURE TO GET KAGGLE FILES --- 
+
+* NOTES: Because I have included the processed train/val/test CSVs in this repository, 
+you do not need to process the original TweetSum dataset. However, if you wish to fully
+replicate my steps you must run the tweet_sum_proprocessing.py script (Feigenblat et al., 2021). 
+
+The tweet_sum_proprocessing.py module, which is called in preprocessing.py, requires a single
+argument: the path to a specific file downloaded from the Kaggle Customer Service dataset. 
+This file is too large to upload on GitHub. However, you can download it from: 
+
+https://www.kaggle.com/thoughtvector/customer-support-on-twitter/download
+
+Save this file and then change the file path in preprocessing.py to match the location of this 
+file in your Google Drive (or local machine). 
+
+
+ 
+
