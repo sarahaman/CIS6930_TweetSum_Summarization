@@ -2,7 +2,7 @@
  <p align="center"><img src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" alt="books" width="50"/></p>
  
 # `"What is in a Tweet?"`
-Performing abstractive summarization on dialogue-based texts poses several potential challenges to SOTA deep-learning techniques, which are tested primarily on single-author texts. I compare the performance of three SOTA pre-trained abstractive text summarization models on the TweetSum (He et al., 2020) dataset. Final project for CIS6390: Special Topics in Computing.  
+I compare the performance of three SOTA pre-trained abstractive text summarization models on the TweetSum (He et al., 2020) dataset. Final project for CIS6390: Special Topics in Computing.  
 
 ## Getting Started
 What can you find in this repository? 
@@ -45,3 +45,8 @@ Make a copy of each of the notebooks in order to edit and run them. In order to 
 If you would like to reproduce my entire process -- from cleaning and pre-processing the data to post-processing -- you can clone this repository and follow along with the annotations in `preprocess_tweetsum.py`. You just need to change the file paths to match those on your local machine.
 
 ## References
+This project was my introduction to both text summarization and fine-tuning models with Huggingface! I referenced the fantastic huggingface text summarization tutorialsduring the process to help me figure out what I was supossed to be doing. Code snippets that reference this tutorials are noted in the notebooks themselves.
+
+* [Huggingface Summarization Tutorial](https://colab.research.google.com/github/huggingface/notebooks/blob/master/examples/summarization.ipynb)
+
+**Papers**
