@@ -48,5 +48,6 @@ If you would like to reproduce my entire process -- from cleaning and pre-proces
 This project was my introduction to both text summarization and fine-tuning models with Huggingface! I referenced the fantastic huggingface text summarization tutorial during the process to help me figure out what I was supossed to be doing. Code snippets that reference this tutorial are noted in the notebooks themselves.
 
 * [Huggingface Summarization Tutorial](https://colab.research.google.com/github/huggingface/notebooks/blob/master/examples/summarization.ipynb)
+* [TweetSum](https://github.com/guyfe/Tweetsumm)
 
 **Papers**
