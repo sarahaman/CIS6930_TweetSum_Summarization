@@ -50,4 +50,3 @@ This project was my introduction to both text summarization and fine-tuning mode
 * [Huggingface Summarization Tutorial](https://colab.research.google.com/github/huggingface/notebooks/blob/master/examples/summarization.ipynb)
 * [TweetSum](https://github.com/guyfe/Tweetsumm)
 
-**Papers**
